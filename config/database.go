@@ -10,9 +10,9 @@ import (
 const (
 	host     = "node.lunarhosting.com.br"
 	port     = 3306
-	user     = "u166_KylX8MoFxd"
-	password = "5QV03xUdLvP@38RSkca!pDVR"
-	dbname   = "s166_go-dev"
+	user     = "não vou mostrar isso certo?"
+	password = "nem isso ne kkkk"
+	dbname   = "isso aqui tambem nao XD"
 )
 
 func InitDB() (*sql.DB, error) {
